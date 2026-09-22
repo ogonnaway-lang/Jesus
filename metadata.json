@@ -1,0 +1,6 @@
+{
+  "name": "The SMART BEAST",
+  "description": "The SMART BEAST - Expert football betting analyst providing statistical probability assessments, goal line distributions, safety filters, and prediction matrices across world fixtures. Programmed by oway.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
